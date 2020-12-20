@@ -1,5 +1,5 @@
 # Facundo Oviedo - @foviedo
-### Holi. Cómo va? Me llamo Facundo 👋
+### Holi. Cómo va? 👋
 
 - 🌱 Estoy cursando la carrera Ingeniería en Sistemas de la Información en la UTN FRBA, Argentina y en mi tiempo libre hago cursos en Udemy  
 - 💻 Soy ayudante de Arquitectura de Computadores, materia de 1er año en misma universidad mencionada ahí ^
