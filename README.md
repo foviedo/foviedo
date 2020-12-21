@@ -11,7 +11,6 @@
 
 ![foviedo's github stats](https://github-readme-stats.vercel.app/api?username=foviedo&show_icons=true&theme=tokyonight)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foviedo&layout=compact)](https://github.com/foviedo/github-readme-stats)
     
 [![GitHub followers](https://img.shields.io/github/followers/foviedo?label=Follow&style=social)](https://github.com/foviedo)
 
